@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **👨‍💻 Developer | 🧠 Learning Gen AI @ Governor House**
+- 💬 Ask me about **👨‍💻 Developer | 🧠 Learning Gen AI**
 
 - 📫 How to reach me **hasnainansari22441@gmail.com**
 
