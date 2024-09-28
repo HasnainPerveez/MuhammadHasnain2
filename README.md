@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hasnain</h1>
+<h1 align="center">Hi 👋, I'm Hasnain Perveez</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
