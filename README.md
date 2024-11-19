@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **👨‍💻 Developer | 🧠 Learning Gen AI**
 
-- 📫 How to reach me **hasnainansari22441@gmail.com**
+- 📫 How to reach me **hasnainperveez602@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
